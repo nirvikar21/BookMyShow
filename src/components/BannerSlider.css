@@ -1,0 +1,30 @@
+.bms-banner-container {
+  position: relative;
+  width: 100%;
+  padding: 20px 0;
+  color: #fff;
+}
+
+.banner-heading {
+  margin-left: 20px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.bms-slider-wrapper {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.bms-cards-wrapper {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  padding: 20px;
+  scroll-behavior: smooth;
+}
+
+.bms-cards-wrapper::-webkit-scrollbar {
+  display: none;
+}

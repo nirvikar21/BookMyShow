@@ -1,0 +1,43 @@
+.layout-grid {
+  display: grid;
+  grid-template-columns: 270px 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Left side */
+.left-side {
+  border-right: 1px solid #ddd;
+  padding-right: 10px;
+}
+
+/* Right side */
+.btn-row {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.btn-row button {
+  padding: 8px 14px;
+  cursor: pointer;
+}
+
+/* Card row */
+.card-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.card {
+  width: 170px;
+  text-align: center;
+}
+
+.card img {
+  width: 170px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 8px;
+}
