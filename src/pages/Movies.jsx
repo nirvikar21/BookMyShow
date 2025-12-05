@@ -24,9 +24,9 @@ export default function Movies(){
       language: "Hindi",
       rating: 8.4,
       votes: 295000,
-      img:"./../../public/Recommanded/mastii.avif",
+      img:"/Recommanded/mastii.avif",
       about:"Three frustrated husbands seek freedom from their dull marriages. A wild idea promises escape and excitement. But what follows is anything but expected.",
-      banner:'./../../public/movie-banner/mastiii-4-et00464040-1764352224.avif'
+      banner:'/movie-banner/mastiii-4-et00464040-1764352224.avif'
     },
     {
       id: 2,
@@ -35,7 +35,7 @@ export default function Movies(){
       language: "Hindi",
       rating: 8.8,
       votes: 510000,
-      img:"./../../public/Recommanded/120-Bahudar.avif",
+      img:"/Recommanded/120-Bahudar.avif",
     },
     {
       id: 3,
@@ -44,7 +44,7 @@ export default function Movies(){
       language: "Telugu",
       rating: 8.5,
       votes: 420000,
-      img:"./../../public/Recommanded/De-De-Pyaar.avif",
+      img:"/Recommanded/De-De-Pyaar.avif",
     },
     {
       id: 4,
@@ -53,7 +53,7 @@ export default function Movies(){
       language: "Hindi",
       rating: 7.2,
       votes: 720000,
-      img:"./../../public/Recommanded/SISU.avif",
+      img:"/Recommanded/SISU.avif",
     },
     {
       id: 5,
@@ -62,7 +62,7 @@ export default function Movies(){
       language: "Hindi",
       rating: 8.1,
       votes: 310000,
-      img:"./../../public/Recommanded/120-Bahudar.avif",
+      img:"/Recommanded/120-Bahudar.avif",
     },
     {
       id: 6,
@@ -71,7 +71,7 @@ export default function Movies(){
       language: "Telugu",
       rating: 8.9,
       votes: 160000,
-      img:"./../../public/Recommanded/120-Bahudar.avif",
+      img:"/Recommanded/120-Bahudar.avif",
     },
     {
       id: 7,
@@ -80,7 +80,7 @@ export default function Movies(){
       language: "Hindi",
       rating: 8.2,
       votes: 140000,
-      img:"./../../public/Recommanded/120-Bahudar.avif",
+      img:"/Recommanded/120-Bahudar.avif",
     },
     {
       id: 8,
@@ -89,7 +89,7 @@ export default function Movies(){
       language: "Tamil",
       rating: 8.0,
       votes: 500000,
-      img:"./../../public/Recommanded/120-Bahudar.avif",
+      img:"/Recommanded/120-Bahudar.avif",
     },
 ];
 

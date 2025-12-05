@@ -6,7 +6,7 @@ export default function Header(){
     return(
     <header className='header'>
       <div className='top-row'>
-      <div className='logo'><Link to="/"><img src="./../../public/bookmyshow-logo.png" width={"100px"}/></Link></div> 
+      <div className='logo'><Link to="/"><img src="/bookmyshow-logo.png" width={"100px"}/></Link></div> 
       <div className='search-box'>
         <input type='text' name="search"/>  
       </div>
