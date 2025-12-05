@@ -14,54 +14,54 @@ export default function Events(){
             title: "Sunburn Arena ft. Martin Garrix",
             date: "12 Dec, 2025",
             location: "Delhi",
-            img: "./../../public/Events/Events_1.avif"
+            img: "/Events/Events_1.avif"
         },
         {
             id: 2,
             title: "Book Launch by Chetan Bhagat",
             date: "02 Jan, 2026",
             location: "Mumbai",
-            img: "./../../public/Events/Events_2.avif"
+            img: "/Events/Events_2.avif"
         },
         {
             id: 3,
             title: "The Comedy Show ft. Zakir Khan",
             date: "05 Feb, 2026",
             location: "Bangalore",
-            img: "./../../public/Events/Events_3.avif"
+            img: "/Events/Events_3.avif"
         },
         {
             id: 4,
             title: "Arijit Singh Live Concert",
             date: "20 Jan, 2026",
             location: "Kolkata",
-            img: "./../../public/Events/Events_3.avif"
+            img: "/Events/Events_3.avif"
         },
         {
             id: 5,
             title: "Arijit Singh Live Concert",
             date: "20 Jan, 2026",
             location: "Kolkata",
-            img: "./../../public/Events/Events_3.avif"
+            img: "/Events/Events_3.avif"
         },
         {
             id: 6,
             title: "Arijit Singh Live Concert",
             date: "20 Jan, 2026",
             location: "Kolkata",
-            img: "./../../public/Events/Events_3.avif"
+            img: "/Events/Events_3.avif"
         },{
             id: 7,
             title: "Arijit Singh Live Concert",
             date: "20 Jan, 2026",
             location: "Kolkata",
-            img: "./../../public/Events/Events_3.avif"
+            img: "/Events/Events_3.avif"
         },{
             id: 8,
             title: "Arijit Singh Live Concert",
             date: "20 Jan, 2026",
             location: "Kolkata",
-            img: "./../../public/Events/Events_3.avif"
+            img: "/Events/Events_3.avif"
         }
     ];
     return(
