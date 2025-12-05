@@ -4,10 +4,10 @@ import './BannerSlider.css';
 export default function BannerSlider() {
   const sliderRef = useRef(null);
     const movies = [
-  { image: "./../../public/Banner/banner1.avif", title: "Best of Life Events" },
-  { image: "./../../public/Banner/banner2.avif", title: "Upcoming Movies" },
-  { image: "./../../public/Banner/banner3.avif", title: "Top Rated Shows" },
-  { image: "./../../public/Banner/banner4.avif", title: "Top Rated Shows" }
+  { image: "/Banner/banner1.avif", title: "Best of Life Events" },
+  { image: "/Banner/banner2.avif", title: "Upcoming Movies" },
+  { image: "/Banner/banner3.avif", title: "Top Rated Shows" },
+  { image: "/Banner/banner4.avif", title: "Top Rated Shows" }
 ];
 
   const scrollLeft = () => {
