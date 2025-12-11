@@ -14,7 +14,7 @@ export default function Header(){
          <div className="location">
             {location} 
           </div>
-      <button className='signin'>SignUp</button>
+      <Link to="/login"><button className='signin'>SignUp</button></Link>
       </div>
       </div>
       

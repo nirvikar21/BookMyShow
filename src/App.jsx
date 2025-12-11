@@ -9,6 +9,9 @@ import Sports from './pages/Sports';
 import AboutMovie from './pages/AboutMovie';
 import Activities from './pages/Activities';
 import Buzz from './pages/Buzz';
+import Login from './pages/Login';
+import Profile from './pages/Profile/Profile'
+
 
 function App() {
   
@@ -24,6 +27,8 @@ function App() {
           <Route path="/activities" element={<Activities/>}/>
           <Route path="/buzz" element={<Buzz/>}/>
           <Route path="/AboutMovie/:title" element={<AboutMovie />} />
+          <Route path="/login" element={<Login/>}/>
+          <Route path= "/profile" element={<Profile/>}/>
         </Routes>
         
     </>

@@ -23,6 +23,7 @@
 
 .footer-column ul li {
   margin-bottom: 8px;
+  color: #ffffff;
 }
 
 .footer-column ul li a {
@@ -32,5 +33,10 @@
 }
 
 .footer-column ul li a:hover {
+  color: #ffffff;
+}
+
+a:hover {
+  text-decoration: none;
   color: #ffffff;
 }
